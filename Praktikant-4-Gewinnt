@@ -1,6 +1,6 @@
 4 - Gewinnt!
 
-Programmiere das Spiel 4 gewinnt in Windows - Forms
+Programmiere das Spiel 4 gewinnt in Windows-Forms C#
 
 (Vereinfache den Code am besten mit Funktionen und ggf. Klassen)
 
@@ -17,21 +17,9 @@ Easy
 
 Middle 
         - Das Spiel soll lokal gegen den Computer gespielt werden können
-        - Das Spiel soll ansehnlich gestaltet sein
-        - Das Spiel soll mit einem Button "Start" gestartet und mit einem Button "Reset" resettet werden können
-        - Es soll eine Gewinnabfrage eingebaut werden (Wenn 4 Spielsteine der gleichen Farbe horizontal, vertikal oder diagonal ausgelegt sind, bekommt der jeweilige Spieler einen Punkt)
-        - Dem Spieler soll ein Punktestand angezeigt werden, der nach jeder Runde aktualisiert wird
 
 Advanced
         - Das Spiel soll lokal an einem Computer mit 3+ Spielern gespielt werden können
-        - Das Spiel soll ansehnlich gestaltet sein
-        - Das Spiel soll mit einem Button "Start" gestartet und mit einem Button "Reset" resettet werden können
-        - Es soll eine Gewinnabfrage eingebaut werden (Wenn 4 Spielsteine der gleichen Farbe horizontal, vertikal oder diagonal ausgelegt sind, bekommt der jeweilige Spieler einen Punkt)
-        - Dem Spieler soll ein Punktestand angezeigt werden, der nach jeder Runde aktualisiert wird
 
 Expert
         - Das Spiel soll über das Netzwerk spielbar sein (Alle Spieler sollen an ihrem eigenen PC das Spiel zusammen spielen können)
-        - Das Spiel soll ansehnlich gestaltet sein
-        - Das Spiel soll mit einem Button "Start" gestartet und mit einem Button "Reset" resettet werden können
-        - Es soll eine Gewinnabfrage eingebaut werden (Wenn 4 Spielsteine der gleichen Farbe horizontal, vertikal oder diagonal ausgelegt sind, bekommt der jeweilige Spieler einen Punkt)
-        - Dem Spieler soll ein Punktestand angezeigt werden, der nach jeder Runde aktualisiert wird
