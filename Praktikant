@@ -1,0 +1,11 @@
+C# Introduction
+https://openbook.rheinwerk-verlag.de/visual_csharp_2012/1997_02_002.html#dodtpb2a78682-576e-486e-a2bb-d5e7aca9cf55
+
+Aufgabe 1
+Lese dich in die C#-Programmiersprache ein und programmiere folgende Aufgabe in Windows-Forms:
+  - Taschenrechner mit den Funktionen (+|-|*|/|^2)
+  - der Taschenrechner soll zwei, durch den Benutzer, eingegebene Werte berechnen
+  - dazu soll ein Button erstellt werden, der das Event aufruft
+  - Das Ergebnis soll seperat in einer Messagebox und seperat in einem Label angezeigt werden
+
+Nach der Fertigstellung der Aufgabe bitte an Marc oder Lucas wenden.
