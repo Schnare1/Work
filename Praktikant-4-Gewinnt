@@ -17,6 +17,8 @@ Easy
 
 Middle 
         - Das Spiel soll lokal gegen den Computer gespielt werden können
+        - Das Spielfeld soll dynamisch angepasst werden
+                - Die Höhe und Breite des Spielfeldes soll vom Benutzer eingegeben werden können
 
 Advanced
         - Das Spiel soll lokal an einem Computer mit 3+ Spielern gespielt werden können
